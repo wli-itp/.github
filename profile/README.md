@@ -1,6 +1,6 @@
 # ThermoTN
 
-This page summarizes repositories of Prof. Wei Li's  group [CQM$^2$](https://www.cqm2itp.com/) at ITP.
+This page summarizes repositories of thermal tensor network methods developed in Prof. Wei Li's  group [CQM$^2$](https://www.cqm2itp.com/) at ITP.
 
 ## Code repositories
 
